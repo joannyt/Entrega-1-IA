@@ -2,5 +2,5 @@
 # Nombres
 Joanny Torres Cardona, 1152218692, Ingenieria eléctrica
 Ana María Montañez Becerra, 1152224184, Bio-Ingenieria 
-#Datos
+# Datos
 Los datos del proyecto vienen de Lifesnaps Fitbit data set Kaggle.
