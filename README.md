@@ -1,5 +1,5 @@
 # Entrega-1-IA
-# Nombres
+# Miembros del equipo
 Joanny Torres Cardona, 1152218692, Ingenieria eléctrica
 Ana María Montañez Becerra, 1152224184, Bio-Ingenieria 
 # Datos
